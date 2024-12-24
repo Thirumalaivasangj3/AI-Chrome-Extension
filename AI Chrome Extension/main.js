@@ -1,5 +1,5 @@
 // Check class name before using hgKElc
-const API_KEY = "AIzaSyAsfVoJbTcwTFbsx494DE3Ku3E_NDKxY-g";
+const API_KEY = "use own api key ";
 
 // Add notification sound URLs
 const SUCCESS_SOUND = "https://example.com/success.mp3";
